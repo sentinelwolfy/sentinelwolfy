@@ -1,6 +1,6 @@
 - Learning LUAE
-- Starting Python
-- Lone loser who enjoys games and trolling.
+- MILSIMS enjoyer
+- Certified Gamer
 
 <!---
 sentinelwolfy/sentinelwolfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
